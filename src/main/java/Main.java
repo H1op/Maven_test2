@@ -13,6 +13,7 @@ public class Main {
         while (myIterator.hasNext()) {
             String string = myIterator.next();
             System.out.println(string);
+            System.out.println(string);
         }
     }
 }
