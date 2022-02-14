@@ -14,6 +14,7 @@ public class Main {
             String string = myIterator.next();
             System.out.println(string);
             System.out.println(string);
+            System.out.println(string);
         }
     }
 }
